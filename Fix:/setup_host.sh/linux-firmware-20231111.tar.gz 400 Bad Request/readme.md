@@ -1,4 +1,5 @@
 # linux-firmware-20231111.tar.gz Fails to download
+from: "sudo -E ./scripts/setup_host.sh"
 
 # Solution:
 Get from alternate location:
