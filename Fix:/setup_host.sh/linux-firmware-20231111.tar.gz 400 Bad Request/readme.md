@@ -1,7 +1,7 @@
 # linux-firmware-20231111.tar.gz Fails to download
 from: "sudo -E ./scripts/setup_host.sh"
 
-## Error:
+## Error: Line 209
 `/scripts/setup_host.sh Failed at line(209): wget "https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/snapshot/linux-firmware-20231111.tar.gz" -P $CIV_WORK_DIR`
 
 ## Cause:
